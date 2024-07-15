@@ -46,7 +46,7 @@ export default function DqdFormTableName({renderDqdTableName,onDqdAdd}) {
         </div>
         <div className="input-group mb-3">
              <span className="input-group-text" id="DqdTbEmail">DqdTbEmail</span>
-            <input type="text" className="form-control" placeholder="khoavu27082k4@gmail.com" 
+            <input type="text" className="form-control" placeholder="quocdat30075@gmail.com" 
             name='DqdTbEmail'
             value={DqdTbEmail}
             onChange={(DqdEv)=>setDqdTbEmail(DqdEv.target.value)}
@@ -55,8 +55,7 @@ export default function DqdFormTableName({renderDqdTableName,onDqdAdd}) {
             aria-describedby="DqdTbEmail"/>
         </div> 
         <div className="input-group mb-3">
-             <span className="input-group-text" id="DqdTbphone">DqdTbphone</span>
-            <input type="text" className="form-control" placeholder="0567699711" 
+             <span className="input-group-text" id="D0357100129" 
             name='DqdTbphone'
             value={DqdTbphone}
             onChange={(DqdEv)=>setDqdTbphone(DqdEv.target.value)}
